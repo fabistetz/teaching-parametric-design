@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw() {
-  background(200);
+  background(255);
 
   for (let c = 1; c < 100; c++) {
     strokeWeight(c/10);
